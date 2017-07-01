@@ -9,3 +9,4 @@ abcdefghijkl
 hjkkiinkokkopk
 
 edited in remote.....
+fetch operation
