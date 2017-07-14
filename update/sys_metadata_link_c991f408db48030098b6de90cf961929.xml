@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>38a6ac72db33320098b6de90cf9619ef</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/author&gt;
+        &lt;can_read_user_criteria/&gt;
+        &lt;cannot_read_user_criteria/&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;false&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category/&gt;
+        &lt;kb_knowledge_base display_value="Knowledge"&gt;dfc19531bf2021003f07e2c1ac0739ab&lt;/kb_knowledge_base&gt;
+        &lt;meta/&gt;
+        &lt;number&gt;KB0010013&lt;/number&gt;
+        &lt;published&gt;2017-07-10&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;PRB0040016 network&lt;/short_description&gt;
+        &lt;source display_value="PRB0040016"&gt;71f520b2db33320098b6de90cf9619d1&lt;/source&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2017-07-10 07:50:14&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;38a6ac72db33320098b6de90cf9619ef&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2017-07-10 07:50:58&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;1&lt;/sys_view_count&gt;
+        &lt;text&gt;&lt;![CDATA[&lt;h3&gt;Description:&lt;/h3&gt;
+&lt;p&gt;sfkjgkfsj&lt;/p&gt;
+&lt;h3&gt;Workaround:&lt;/h3&gt;
+&lt;p&gt;2017-07-10 00:48:00 - System Administrator (Workaround) nnsjlnljsfnglj&lt;/p&gt;]]&gt;&lt;/text&gt;
+        &lt;topic&gt;News&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2020-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;published&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=38a6ac72db33320098b6de90cf9619ef"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 05:50:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c991f408db48030098b6de90cf961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010013</sys_name>
+        <sys_package display_value="knw" source="x_69202_knw">ef21f440db08030098b6de90cf961980</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="knw">ef21f440db08030098b6de90cf961980</sys_scope>
+        <sys_update_name>sys_metadata_link_c991f408db48030098b6de90cf961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 05:50:27</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>
